@@ -1,0 +1,39 @@
+{
+    "Animales": [
+        {
+            "nombre": "perro"
+        },
+        {
+            "nombre": "gato"
+        },
+        {
+            "nombre": "iguana"
+        },
+        {
+            "nombre": "loro"
+        }
+    ],
+    "Personas": [
+        {
+			"id":"1",
+			"nombre":"wilmer",
+			"apellido":"maza",
+            "usuario": "wilmer_maza",
+			"contrasena":"123"
+        },
+        {
+			"id":"2",
+			"nombre":"Alejandra",
+			"apellido":"Alfaro",
+            "usuario": "alejandra_Alfaro"
+        },
+        {
+            "id":"3",
+            "usuario": "valentina"
+        },
+        {
+            "id":"4",
+            "usuario": "juan"
+        }
+    ]
+}
